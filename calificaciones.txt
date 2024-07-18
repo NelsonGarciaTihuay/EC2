@@ -1,0 +1,30 @@
+Nelson Garcia Tihuay
+Primera nota:11.0
+Segunda nota:12.0
+Tercera nota:13.0
+Cuarta nota:20.0
+Promedio:18.666666666666668
+Denillson 
+Primera nota:11.0
+Segunda nota:20.0
+Tercera nota:13.0
+Cuarta nota:15.0
+Promedio:19.666666666666668
+Alex
+Primera nota:11.0
+Segunda nota:12.0
+Tercera nota:13.0
+Cuarta nota:15.0
+Promedio:17.0
+nelson
+Primera nota:13.0
+Segunda nota:12.0
+Tercera nota:14.0
+Cuarta nota:20.0
+Promedio:19.666666666666668
+nelson
+Primera nota:11.0
+Segunda nota:11.0
+Tercera nota:11.0
+Cuarta nota:11.0
+Promedio:14.666666666666666
